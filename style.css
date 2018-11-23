@@ -1,0 +1,47 @@
+h3,p1{
+    color: #fff;
+}
+.container{
+    display: flex;
+}
+.col-md-3{
+    display: flex;
+    flex-direction: column;
+    background-color: #221e30;
+    color: #fff;
+    flex-basis: 50%;
+    
+    
+    
+}
+.col-md-9{
+    display: flex;
+    flex-direction: column;
+    
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    
+}
+.image{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    padding-top: 10px;
+}
+.icon-dashboard{
+    fill:yellow;
+}
+.my-profile{
+        height: 200px;
+       background-image: linear-gradient(to right, #4a978b , #2c4b9e);
+}
+
+.main content{
+    display: flex;
+    
+}
+.profile-details{
+    display: flex;
+    flex-direction: row;
+}
